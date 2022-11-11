@@ -1,0 +1,16 @@
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\services\ApoderadoServicio.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\services\ParentescoServicio.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\repository\ApoderadoRepositorio.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\entity\Parentesco.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\EscuelaNuevaApplication.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\controller\DistritoController.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\services\ApoderadoServiceImpl.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\controller\ParentescoController.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\controller\ApoderadoController.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\repository\ParentescoRepositorio.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\entity\Distrito.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\services\DistritoServicio.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\services\DistritoServiceImpl.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\repository\DistritoRepositorio.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\services\ParentescoServiceImpl.java
+C:\Users\danie\Desktop\Sistemas\5toCiclo\AplicacionesConEnfoqueOrientadoAServicios\projects\EscuelaNueva\src\main\java\pe\com\apiescuelanueva\entity\Apoderado.java
